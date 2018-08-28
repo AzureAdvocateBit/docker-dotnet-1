@@ -10,4 +10,4 @@ COPY . /app
 ENV ASPNETCORE_URLS=http://*:80
 
 # Start the app
-ENTRYPOINT dotnet docker-dotnet.dll
+ENTRYPOINT dotnet dockerdotnet.dll

@@ -1,6 +1,6 @@
 using System;
 
-namespace docker-dotnet.Models
+namespace dockerdotnet.Models
 {
     public class ErrorViewModel
     {

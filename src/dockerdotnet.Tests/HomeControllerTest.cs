@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using docker-dotnet.Controllers;
+using dockerdotnet.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using Xunit;
 
-namespace docker-dotnet.Tests
+namespace dockerdotnet.Tests
 {
     // see example explanation on xUnit.net website:
     // https://xunit.github.io/docs/getting-started-dotnet-core.html
